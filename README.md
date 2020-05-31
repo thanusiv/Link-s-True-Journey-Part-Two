@@ -19,8 +19,11 @@ The objective is to collect keys scattered around the map and place them in a ge
 
 ## Demo
 
-<img src="gifs/gif_1.gif?raw=true"/> <img src="gifs/gif_2.gif?raw=true"/> <img src="gifs/gif_3.gif?raw=true"/>
-<img src="gifs/gif_5.gif?raw=true"/> <img src="gifs/gif_6.gif?raw=true"/>
+<img src="gifs/MenuControls.gif?raw=true"/> <img src="gifs/Story.gif?raw=true"/> 
+<img src="gifs/First.gif?raw=true"/><img src="gifs/GrenadeStun.gif?raw=true"/> 
+<img src="gifs/Death.gif?raw=true"/><img src="gifs/Ending.gif?raw=true"/>
+<img src="gifs/KeyCollection.gif?raw=true"/> <img src="gifs/KeyDeposit.gif?raw=true"/>
+<img src="gifs/AnotherDeath.gif?raw=true"/>
 
 ## How to Load Game
 
