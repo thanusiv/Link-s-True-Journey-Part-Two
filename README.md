@@ -13,7 +13,7 @@
 
 Link's True Journey Part 2 is a 3D first-person horror game created using Java and the libDGX library for my Grade 12 Computer Science Summative. 
 
-The objective is to collect keys scattered around the map and place them in a generator. While on your search for keys, a monstrous ghost spider is trying to hunt you down. It can go through walls (no collisions :p) and will kill you if you get caught. You can stop the spider temporarily by placing stun grenades while you walk. You can get a few jumpscares if you aren't paying atttention! 
+The objective is to collect keys scattered around the map and place them in a generator. While on your search for keys, a monstrous ghost spider is trying to hunt you down. It can go through walls (no collisions :p) and will kill you if you get caught. You can stop the spider temporarily by placing stun grenades while you walk. You can get a few jumpscares if you aren't paying attention! 
 
 **Note**: The title of this game has nothing to do with its content. It is a joke that a few of my friends came up with as sequel to my [Grade 11 project: Link's True Journey](https://github.com/thanusiv/Link-s-True-Journey)!
 
