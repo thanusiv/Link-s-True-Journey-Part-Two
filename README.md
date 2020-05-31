@@ -36,7 +36,7 @@ Simply clone the Github repository and run the main method located in `Launcher.
 - Cool ending cinematic if you beat the game
 - Keys, generator, spider and player have random locations from each playthrough
 - Not so happy ending cinematic if you get caught by the spider
-- Spider stun animations are cool to look at in first-person (you can try to stun-lock the spider!)
+- Spider stun animations are funny to look at in first-person (you can try to stun-lock the spider!)
 
 ## Technologies Used
 
